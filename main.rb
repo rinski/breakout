@@ -7,7 +7,7 @@ class GameWindow < Gosu::Window
   def initialize
     super 1280, 800, false
     @game = Game.new
-    @renderer = Renderer.new
+    @renderer = Renderer.new(self)
   end
 
   def update

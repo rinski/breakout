@@ -12,3 +12,5 @@ In the root of the project run:
 Run the game:  
     $ ruby main.rb
 
+This game uses the gosu game library.  Check out the documentation here:  
+[http://www.libgosu.org/rdoc/](http://www.libgosu.org/rdoc/)
