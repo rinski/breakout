@@ -20,5 +20,7 @@ class GameWindow < Gosu::Window
 
 end
 
+#comment
+
 window = GameWindow.new
 window.show
